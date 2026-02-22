@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+</div>
 <!--
 **macarenaquisbert/macarenaquisbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
