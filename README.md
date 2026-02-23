@@ -1,11 +1,11 @@
-<h1 align="center">
-  Hi, I'm Maky <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h1>
+<h1 align="center">Hola, soy Maky 👋</h1>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me  
-I’m currently strengthening my programming foundations through practice and real projects.  
-I enjoy building ideas with code and continuously improving my technical skills.  
-My focus is on growing as a developer and gaining real-world experience.
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Sobre mí
+
+Actualmente estoy fortaleciendo mis bases de programación a través de la práctica y proyectos reales.  
+Disfruto construyendo ideas con código y mejorando continuamente mis habilidades técnicas.  
+Mi enfoque está en crecer como desarrollador y adquirir experiencia en el mundo real.
+
 <br>
 
 <div align="center">
