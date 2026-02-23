@@ -9,13 +9,11 @@
 I’m currently strengthening my programming foundations through practice and real projects.  
 I enjoy building ideas with code and continuously improving my technical skills.  
 My focus is on growing as a developer and gaining real-world experience.
-
 <br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="170"/>
 </div>
----
 
 ### 💻Tech Stack
 
