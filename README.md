@@ -3,8 +3,6 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
-<br>
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me  
 I’m currently strengthening my programming foundations through practice and real projects.  
 I enjoy building ideas with code and continuously improving my technical skills.  
@@ -15,7 +13,7 @@ My focus is on growing as a developer and gaining real-world experience.
   <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="170"/>
 </div>
 
-### 💻Tech Stack
+###  💻Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
