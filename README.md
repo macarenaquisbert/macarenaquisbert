@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Maky 👩🏻‍💻</h1>
+<h1 align="center">Hi, I'm Macarena <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
-  Systems Engineering Student | Aspiring Software Developer
+  Systems Engineering Student | Future Software Developer
 </p>
 
 <div align="center">
@@ -11,18 +11,20 @@
 ---
 
 ### 💻 Tech Stack
-- JavaScript  
-- Python  
-- SQL  
-- C++
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,html,css,flask,cpp,sql" />
+  </a>
+</p>
 
 ---
 
 ### 🚀 About Me
-I’m currently building my path in technology through constant learning and practice.  
-I enjoy solving problems, understanding how things work, and improving my skills step by step.  
 
-My goal is to grow as a developer and contribute to meaningful tech projects.
+I’m currently strengthening my programming foundations through practice and real projects.  
+I enjoy building ideas with code and continuously improving my technical skills.  
+My focus is on growing as a developer and gaining real-world experience.
 <!--
 **macarenaquisbert/macarenaquisbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
