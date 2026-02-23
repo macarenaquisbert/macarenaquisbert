@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Macarena 👩🏻‍💻</h1>
+<h1 align="center">Hi, I'm Maky 👩🏻‍💻</h1>
 
 <p align="center">
   Systems Engineering Student | Aspiring Software Developer
