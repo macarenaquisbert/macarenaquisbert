@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  🚀 About Me
-
+  
+🚀 About Me
 I’m currently strengthening my programming foundations through practice and real projects.  
 I enjoy building ideas with code and continuously improving my technical skills.  
 My focus is on growing as a developer and gaining real-world experience.
@@ -24,7 +24,7 @@ My focus is on growing as a developer and gaining real-world experience.
     <img src="https://skillicons.dev/icons?i=c,python,js,mysql,html,css,flask,bootstrap" />
   </a>
 </p>
----
+
 
 
 <!--
