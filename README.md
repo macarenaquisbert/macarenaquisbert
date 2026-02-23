@@ -1,23 +1,25 @@
-<h1 align="center">Hi, I'm Macarena <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">
+  Hi, I'm Macarena 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
 
 <p align="center">
-  Systems Engineering Student | Future Software Developer
+  Systems Engineering Student | Software Developer in Progress
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="170"/>
 </div>
 
 ---
 
-###  💻 Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,html,css,flask,cpp,sql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,flask,sql" />
   </a>
 </p>
-
 ---
 
 ### 🚀 About Me
