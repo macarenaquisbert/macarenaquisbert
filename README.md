@@ -4,7 +4,11 @@
 </h1>
 
 <p align="center">
-  Systems Engineering Student | Software Developer in Progress
+  🚀 About Me
+
+I’m currently strengthening my programming foundations through practice and real projects.  
+I enjoy building ideas with code and continuously improving my technical skills.  
+My focus is on growing as a developer and gaining real-world experience.
 </p>
 
 <div align="center">
@@ -22,11 +26,7 @@
 </p>
 ---
 
-### 🚀 About Me
 
-I’m currently strengthening my programming foundations through practice and real projects.  
-I enjoy building ideas with code and continuously improving my technical skills.  
-My focus is on growing as a developer and gaining real-world experience.
 <!--
 **macarenaquisbert/macarenaquisbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
