@@ -1,24 +1,30 @@
-<h1 align="center">Hola, soy Maky 👋</h1>
+# <p align="center">✨ ¡Hola! Soy 𝕄𝕒𝕜𝕪 𝔻𝕖𝕧 👋 ✨</p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Sobre mí
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=FAD02C&height=120&section=header&text=Bienvenido%20a%20mi%20perfil&fontSize=40" />
+</p>
+
+## 👩‍💻 Sobre mí
 
 Actualmente estoy fortaleciendo mis bases de programación a través de la práctica y proyectos reales.  
 Disfruto construyendo ideas con código y mejorando continuamente mis habilidades técnicas.  
 Mi enfoque está en crecer como desarrollador y adquirir experiencia en el mundo real.
 
-<br>
+---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="170"/>
-</div>
-
-###  💻Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,js,mysql,html,css,flask,bootstrap" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eXp6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
+</div>
 
 
 
