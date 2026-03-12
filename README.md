@@ -1,8 +1,4 @@
-# <p align="center">✨ ¡Hola! Soy 𝕄𝕒𝕜𝕪 𝔻𝕖𝕧 👋 ✨</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=FAD02C&height=120&section=header&text=Bienvenido%20a%20mi%20perfil&fontSize=40" />
-</p>
+# <p align="center">✨ ¡Hola! Soy 𝕄𝕒𝕜𝕪  👋 ✨</p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
