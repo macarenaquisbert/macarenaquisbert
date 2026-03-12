@@ -1,6 +1,6 @@
 # <p align="center">✨ Hola! Soy MACA 👋 ✨</p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" 👩‍💻 Sobre mí >
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" > <p>👩‍💻 Sobre mí</p>
 
 ## 👩‍💻 Sobre mí
 
