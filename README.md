@@ -1,4 +1,5 @@
-# <p align="center">✨ ¡Hola! Soy 𝕄𝕒𝕜𝕪 👋 ✨</p>
+# <p align="center">✨ ¡Hola! Soy </p>
+# <p align="center">𝕄𝕒𝕜𝕪 👋 ✨</p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
