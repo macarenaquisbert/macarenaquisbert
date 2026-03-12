@@ -8,7 +8,7 @@
 
 Actualmente estoy fortaleciendo mis bases de programación a través de la práctica y proyectos reales.  
 Disfruto construyendo ideas con código y mejorando continuamente mis habilidades técnicas.  
-Mi enfoque está en crecer como desarrollador y adquirir experiencia en el mundo real.
+Mi enfoque está en crecer como desarrollador y adquirir experiencia.
 
 ---
 
