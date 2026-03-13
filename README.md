@@ -1,6 +1,6 @@
 # <p align="center">✨ Hola! Soy MACA 👋 ✨</p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" > Sobre mí
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" >   Sobre mí
 
 Actualmente estoy fortaleciendo mis bases de programación a través de la práctica y proyectos reales.  
 Disfruto construyendo ideas con código y mejorando continuamente mis habilidades técnicas.  
