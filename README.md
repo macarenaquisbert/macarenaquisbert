@@ -7,6 +7,7 @@ Disfruto construyendo ideas con código y mejorando continuamente mis habilidade
 Mi enfoque está en crecer como desarrolladora y adquirir experiencia.
 
 <p align="center"><b><i>"En constante evolución 🚀"</i></b></p>
+
 ---
 
 ## 🛠 Tech Stack
