@@ -16,6 +16,13 @@ Mi enfoque está en crecer como desarrollador y adquirir experiencia.
   </a>
 </p>
 
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=macarenaquisbert&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Estadísticas de Maca" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macarenaquisbert&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Lenguajes más usados" />
+</p>
 
 
 
