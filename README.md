@@ -2,9 +2,8 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" >   Sobre mí
 
-Actualmente estoy fortaleciendo mis bases de programación a través de la práctica y proyectos reales.  
-Disfruto construyendo ideas con código y mejorando continuamente mis habilidades técnicas.  
-Mi enfoque está en crecer como desarrolladora y adquirir experiencia.
+Actualmente estoy fortaleciendo mis bases de programación a través de la práctica y proyectos.  
+Disfruto construyendo ideas con código y mejorando continuamente mis habilidades técnicas.
 
 <p align="center"><b><i>"En constante evolución 🚀"</i></b></p>
 
