@@ -4,9 +4,6 @@
 
 Actualmente estoy fortaleciendo mis bases de programación a través de la práctica y proyectos.  
 Disfruto construyendo ideas con código y mejorando continuamente mis habilidades técnicas.
-
-<p align="center"><b><i>"En constante evolución 🚀"</i></b></p>
-
 ---
 
 ## 🛠 Tech Stack
